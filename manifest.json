@@ -1,0 +1,22 @@
+{
+	"name":"pwa",
+	"short_name":"pwa",
+	"start_url":"index.html",
+	"display":"standalone",
+	"background_color":"#16D87D",
+	"theme_color":"black",
+	"scope": ".",
+	"description":"This is pwa",
+	"icons":[
+	{
+	"src":"images/goran-ivos-iacpoKgpBAM-unsplash.jpg",					
+	"sizes":"192x192",
+	"type":"image/png"
+	},
+	{
+	"src":"images/austin-distel-pjWbUrkUefU-unsplash.jpg",
+	"sizes":"512x512",
+	"type":"image/png"
+	}
+]
+}
